@@ -1,8 +1,14 @@
-### Hi there 👋
+## 👋 Hi there! I'm Melinda.
+
+I'm a 14-year-old student and full-stack web developer from California. When I'm not slaving away at school, I'm listening to music, feeding my mechanical keyboard obsession, and committing human rights violations on The Sims 4.
+
+### 🌎 Get in touch
+- Website: *Coming soon!*
+- Email: [melindachang.hy@gmail.com](mailto:melindachang.hy@gmail.com)
 
 <!--
-**melindachang/melindachang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**melindachang/melindachang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
