@@ -5,7 +5,7 @@
 ### 🌎 Get in touch
 - Website: *Coming soon!*
 - Email: melindachang.hy@gmail.com
-- Linkedin: [@melindahchang](www.linkedin.com/in/melindahchang)
+- Linkedin: [@melindahchang](https://www.linkedin.com/in/melindahchang)
 
 <!--
 
