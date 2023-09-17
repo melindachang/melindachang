@@ -4,4 +4,4 @@
 
 ### 🌎 Get in touch
 - Email: melindachang.hy@gmail.com
-- Discord: [hychang#2818](https://dsc.bio/chang)
+- Discord: [hychang](https://dsc.bio/chang)
