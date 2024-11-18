@@ -1,6 +1,6 @@
 ## Melinda Chang&mdash;@melindachang
 
-CS + English @ Northwestern. Programming languages, 19th-20th c. European fiction and thought, digital humanities.
+CS + English @ Northwestern. Programming languages, digital humanities.
 
 ### 🌎 Find me elsewhere
 - Email: melindachang (at) u (dot) northwestern (dot) edu
