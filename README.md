@@ -2,6 +2,6 @@
 
 CS + English @ Northwestern. Programming languages, computational humanities.
 
-### 🌎 Find me elsewhere
+### 🌎 Elsewhere
 - Email: melinda [at] u.northwestern.edu
-- Watch me shout into the void on [Goodreads](https://www.goodreads.com/user/show/124375846-melinda-chang) and [Letterboxd](https://letterboxd.com/hychang)
+- [Goodreads](https://www.goodreads.com/user/show/124375846-melinda-chang) and [Letterboxd](https://letterboxd.com/hychang)
