@@ -1,6 +1,6 @@
 ## Melinda Chang&mdash;@melindachang
 
-CS + English @ Northwestern. Programming languages, cultural analytics.
+CS + CompLit @ Northwestern. Programming languages, NLP, cultural analytics.
 
 ### 🌎 Elsewhere
 - Email: melinda [at] u.northwestern.edu
